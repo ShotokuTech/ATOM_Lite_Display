@@ -5,3 +5,4 @@ This M5Stack Atom Lite LCD Display Driver Kit gives the tiny ATOM Lite the possi
 
 M5Stack ATOM Lite Display Getting Started.
 https://youtu.be/s476SnKA-sc
+![](https://github.com/ShotokuTech/ATOM_Lite_Display/blob/main/ATOM%20Lite%20Display.png)
